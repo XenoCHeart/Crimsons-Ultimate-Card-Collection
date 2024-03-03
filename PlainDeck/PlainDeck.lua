@@ -1,5 +1,5 @@
 --- STEAMODDED HEADER
---- MOD_NAME: Crimson's Pain Deck
+--- MOD_NAME: Crimson's Plain Deck
 --- MOD_ID: PlainDeck
 --- MOD_AUTHOR: [Crimson Heart]
 --- MOD_DESCRIPTION: Includes a deck with no special effects. 
