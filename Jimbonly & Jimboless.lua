@@ -124,7 +124,7 @@ function SMODS.INIT.JIMBO ()
             }
         }
     })
-    
+
         table.insert(G.CHALLENGES,#G.CHALLENGES+1,{
             name = 'Jimboless',
             id = 'c_mod_JIMBO_Jimboless',
@@ -231,3 +231,6 @@ function SMODS.INIT.JIMBO ()
             }
         })
     end
+
+----------------------------------------------  
+------------MOD CODE END----------------------
