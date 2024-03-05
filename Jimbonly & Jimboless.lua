@@ -224,6 +224,7 @@ function SMODS.INIT.JIMBO ()
                     {id = 'j_yorick'},
                     {id = 'j_chicot'},
                     {id = 'j_perkeo'},
+                    {id = 'c_soul'}
                 },
                 banned_tags = {
                 },
