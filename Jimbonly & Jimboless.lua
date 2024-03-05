@@ -162,6 +162,7 @@ function SMODS.INIT.JIMBO ()
                     {id = 'j_zany'},
                     {id = 'j_mad'},
                     {id = 'j_droll'},
+                    {id = 'j_crazy'},
                     {id = 'j_sly'},
                     {id = 'j_wily'},
                     {id = 'j_clever'},
